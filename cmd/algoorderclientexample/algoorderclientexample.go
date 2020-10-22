@@ -9,11 +9,11 @@ import (
 )
 
 func RunAllExamples() {
-	placeOrder()
+	//placeOrder()
 	getOpenOrders()
-	getSpecificOrder()
-	cancelOder()
-	getHistoryOrders()
+	//getSpecificOrder()
+	//cancelOder()
+	//getHistoryOrders()
 }
 
 func placeOrder() {
